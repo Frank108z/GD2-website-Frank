@@ -1,0 +1,43 @@
+ul{
+    color: rgb(249, 249, 252);
+}
+
+
+
+h1{
+    color: rgb(130, 193, 230);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+}
+h2{
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(249, 249, 252);
+    font-size: 65px;
+}
+h3{
+    color: rgb(142, 194, 224);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+}
+li{
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 19px;
+}
+p{  font-family: 'DotGothic16', sans-serif;
+    
+    color: rgb(151, 191, 228);
+    font-size: 36px }
+head{
+    margin:auto;
+    
+}
+#container{
+    /*width: 400px; */
+    width: 60%;
+    margin: auto;
+}
+
+.box {
+    margin-bottom: 20px;
+    padding-right: 30px ;
+}

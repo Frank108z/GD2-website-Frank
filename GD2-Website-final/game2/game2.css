@@ -1,0 +1,13 @@
+#container{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+  }
+  canvas{
+    background-color: blanchedalmond;
+  }
+  h1{
+    color: rgb(231, 114, 60);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;}
+  
